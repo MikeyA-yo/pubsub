@@ -1,7 +1,7 @@
 package pub
 
 import (
-	"pubsub/sub"
+	"github.com/MikeyA-yo/pubsub/sub"
 )
 
 type Pub struct {
